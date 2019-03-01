@@ -1,4 +1,4 @@
-# Useful shortcuts for Magento CLI
+# Useful shortcuts for Magento CLI (php bin/magento)
 
 
 | CLI Command | Shortcut | Description |
