@@ -100,3 +100,6 @@
 | theme:uninstall | ``t:u`` | Uninstalls theme |
 | **varnish** | |
 | varnish:vcl:ge |
+
+
+#Credits: Brent Peterson
